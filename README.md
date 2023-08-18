@@ -8,7 +8,7 @@ This project aims to perform data analysis on popular games by utilizing data fr
 - [Technologies Used in the Project](#technologiesusedintheproject)
 - [Getting Started](#GettingStarted)
 - [Contribution and Development](#ContributionandDevelopment)
-- [Project Team Members](#ProjectTeamMembers)
+- [Project Team Members](#projecteammembers)
 
 
 ## Project Objectives
