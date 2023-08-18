@@ -2,15 +2,6 @@
 
 This project aims to perform data analysis on popular games by utilizing data from Steam and Epic Games platforms. We aim to understand player preferences, examine the impact of game developer changes on user counts, and conduct various analyses in the realm of data science and decision support.
 
-## Table of Contents
-
-- [Project Objectives](#projectobjectives)
-- [Technologies Used in the Project](#technologiesusedintheproject)
-- [Getting Started](#GettingStarted)
-- [Contribution and Development](#ContributionandDevelopment)
-- [Project Team Members](#projecteammembers)
-
-
 ## Project Objectives
 
 - Analyze user preferences of popular games by fetching data from Steam and Epic Games platforms.
